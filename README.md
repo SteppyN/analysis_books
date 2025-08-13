@@ -2,4 +2,5 @@
 
  Попробовала определить и визуализировать географические локации романа, появление главных персонажей и тональность текста
 
+
 <img src="https://github.com/SteppyN/analysis_books/blob/main/characters.png"> 
