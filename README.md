@@ -1,4 +1,4 @@
 ### Анализ текста романа "Идиот" Ф.М. Достоевского
 В коде постаралась визуализировать географические локации романа, появление главных персонажей и тональность текста
 
-<img src="https://github.com/SteppyN//analysis_books/blob/main/characters.png"> 
+<img src="https://github.com/SteppyN/analysis_books/blob/main/characters.png"> 
